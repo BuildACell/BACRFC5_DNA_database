@@ -1,7 +1,7 @@
 # BAC RFC #5 - Database of DNA Components
 This distribution represents a draft of a DNA parts repository. We propose that the Build a Cell community shares DNA designs following this structure. 
 
-This distribution was shared with the BAC community on 2023.11.14 (Austin, TX, USA) and is available under the MIT License (BAC Tools Group: 2023)
+This distribution was shared with the BAC community on 2023.11.14 (Austin, TX, USA) and is available under the MIT License (BAC Tools Group: 2023).
 
 ## Contents
 This distribution is broken into five (5) categories: promoters, RBS sites, CDSes, terminators, and vectors.
@@ -12,7 +12,7 @@ The level-matched T7 promoters are a set of 10 pT7 promoter variants, selected t
 Each promoter appears as a MoClo Level 0 ‘P’ part, while also driving expression of efasGFP for immediate use and measurement within PURE or cells containing the T7 RNA polymerase.
 
 ### RBSes
-Also included are two 5’ untranslated regions, UTR1 and the reference RBS from Elowitz (1999), and three terminators, tT7, tT7hyb6, and tT7hyb10. The UTR and terminator parts are designed as MoClo level 0 ‘U’ and ‘T’ modules, respectively.
+Also included are two 5’ untranslated regions, UTR1 and the reference RBS from Elowitz (1999). The UTR parts are designed as MoClo level 0 ‘U’ and ‘T’ modules, respectively.
 
 UTR1 is based on the T7 *g10* leader sequence and results in highly efficient translation efficiency and consequent high expression levels in systems containing the *E. coli* ribosome. The Elowitz RBS is the reference RBS used to define RBS efficiency in Elowitz (1999) and by the iGEM community.
 
