@@ -1,0 +1,36 @@
+Name,Description
+amajLime,Measurement: AmajLime green chromoprotein under the T7 promoter.
+cjBlue,Measurement: CjBlue blue chromoprotein under the T7 promoter.
+eforRed,Measurement: EforRed red chromoprotein under the T7 promoter.
+gfasPurple,Measurement: GfasPurple purple chromoprotein under the T7 promoter.
+lacI,Measurement: LacI-M repressor under control of the T7 promoter
+cjBlue-lacO,Measurement: Leaky expression control consisting of cjBlue under control of the pT7-lacO promoter. Failure of repression by lacI will appear as chromoprotein expression.
+eforRed-lacO,Measurement: Leaky expression control consisting of eforRed under control of the pT7-lacO promoter. Failure of repression by lacI will appear as chromoprotein expression.
+meleRFP,Measurement: MeleRFP red fluorescent protein under the T7 promoter.
+mmilCFP,Measurement: MmilCFP blue fluorescent protein under the T7 promoter.
+pT7-tetO-lacO,Measurement: PlamGFP green fluorescent protein dual-repressed by tetR and lacI.
+pT7-lacO-tetO,Measurement: PlamGFP green fluorescent protein dual-repressed by tetR and lacI.
+plamGFP-PURE,Measurement: PlamGFP green fluorescent protein optimized for cell-free expression in PURE.
+plamGFP-TXTL,Measurement: PlamGFP green fluorescent protein optimized for cell-free expression in TXTL.
+plamGFP-Chimeric,Measurement: PlamGFP green fluorescent protein with chimeric promoter for expression in PURE and TXTL.
+pT7-lacO,Measurement: PlamGFP green fluorescent protein with repressed by the lac repressor lacI.
+pT7-tetO,Measurement: PlamGFP green fluorescent protein with repressed by the tet repressor tetR.
+cjBlue-lacO-His6,Measurement: Purification control consisting of cjBlue with lac-repression and a c-terminal 6xHis tag. Affinity purification of this protein should result in visible column capture and a visible eluent.
+eforRed-lacO-His6,Measurement: Purification control consisting of eforRed with lac-repression and a c-terminal 6xHis tag. Affinity purification of this protein should result in visible column capture and a visible eluent.
+tetR,Measurement: TetR repressor under control of the T7 promoter
+RBS,MoClo: Elowitz reference E. coli ribosome binding site from Elowitz (1999).
+pOpenv3-MCL0,MoClo: pOpenv3 MoClo destination vector for assembly of level 0 modules into a functional transcription unit.
+tT7,MoClo: T7 terminator.
+tT7hyb10,MoClo: T7hyb10 synthetic hybrid T7 terminator from Calvopina-Chavez (2022).
+tT7hyb6,MoClo: T7hyb6 synthetic hybrid T7 terminator from Calvopina-Chavez (2022).
+UTR1,MoClo: UTR1 strong E. coli 5' untranslated region with ribosome binding site.
+PURET7-1,PURET7 level-matched promoter. 0.349685 expression relative to PURET7-10.
+PURET7-2,PURET7 level-matched promoter. 0.417373 expression relative to PURET7-10.
+PURET7-3,PURET7 level-matched promoter. 0.710429 expression relative to PURET7-10.
+PURET7-4,PURET7 level-matched promoter. 0.766275 expression relative to PURET7-10.
+PURET7-5,PURET7 level-matched promoter. 1 expression relative to PURET7-10.
+PURET7-6,PURET7 level-matched promoter. 4.96926 expression relative to PURET7-10.
+PURET7-7,PURET7 level-matched promoter. 8.14369 expression relative to PURET7-10.
+PURET7-8,PURET7 level-matched promoter. 30.6834 expression relative to PURET7-10.
+PURET7-9,PURET7 level-matched promoter. 59.3814 expression relative to PURET7-10.
+PURET7-10,PURET7 level-matched promoter. 70.9156 expression relative to PURET7-10.
