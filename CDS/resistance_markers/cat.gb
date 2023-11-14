@@ -1,0 +1,37 @@
+LOCUS       cat                   643 bp ds-DNA     linear       14-NOV-2023
+DEFINITION  E. coli CAT gene for chloramphenicol acetyltransferase (EC
+            2.3.1.28). Pulled from Genbank.
+ACCESSION   X53796
+VERSION     X53796.1
+SOURCE      Escherichia coli K-12
+  ORGANISM  Escherichia coli K-12 Bacteria; Pseudomonadota;
+            Gammaproteobacteria; Enterobacterales; Enterobacteriaceae;
+            Escherichia.
+COMMENT     Imported using the Genbank importer. File name: sequence(7).gb
+FEATURES             Location/Qualifiers
+     mRNA            1..642
+                     /label="cat"
+                     /note="gene"
+     CDS             1..642
+                     /label="cat"
+                     /product="chloramphenicol acetyltransferase"
+                     /protein_id="CAA37805.1"
+                     /db_xref="GOA:P22615"
+                     /db_xref="InterPro:IPR001707"
+                     /db_xref="InterPro:IPR018372"
+                     /db_xref="UniProtKB/Swiss-Prot:P22615"
+                     /transl_table=11
+                     /translation="MNFTRIDLNTWNRREHFALYRQQIKCGFSLTTKLDITALRTALAETGYKFYPLMIYLISRAVNQFPEFRMALKDNELIYWDQSDPVFTVFHKETETFSALSCRYFPDLSEFMAGYNAVTAEYQHDTRLFPQGNLPENHLNISSLPWVSFDGFNLNITGNDDYFAPVFTMAKFQQEGDRVLLPVSVQVHHAVCDGFHAARFINTLQLMCDNILK*"
+ORIGIN
+        1 atgaatttta cccggattga cctgaatacc tggaatcgca gggaacactt tgccctttat
+       61 cgtcagcaga ttaaatgcgg attcagcctg accaccaaac tcgatattac cgctttgcgt
+      121 accgcactgg cggagacagg ttataagttt tatccgctga tgatttacct gatctcccgg
+      181 gctgttaatc agtttccgga gttccggatg gcactgaaag acaatgaact tatttactgg
+      241 gaccagtcag acccggtctt tactgtcttt cataaagaaa ccgaaacatt ctctgcactg
+      301 tcctgccgtt attttccgga tctcagtgag tttatggcag gttataatgc ggtaacggca
+      361 gaatatcagc atgataccag attgtttccg cagggaaatt taccggagaa tcacctgaat
+      421 atatcatcat taccgtgggt gagttttgac ggatttaacc tgaacatcac cggaaatgat
+      481 gattattttg ccccggtttt tacgatggca aagtttcagc aggaaggtga ccgcgtatta
+      541 ttacctgttt ctgtacaggt tcatcatgca gtatgtgatg gctttcatgc agcacggttt
+      601 attaatacac ttcagctgat gtgtgataac atactgaaat aaa
+//
